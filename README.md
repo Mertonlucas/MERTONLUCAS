@@ -1,29 +1,25 @@
-# Portfólio Acadêmico 
+# Portfólio Acadêmico
 
-
-
-##Bem-vindo ao meu GITHUB!!!
+## Bem-vindo ao meu GITHUB!!!
 
 Eu sou um acadêmico de Análise e Desenvolvimento de Sistemas na instituição de ensino superior UNIASSELVI.
 
 Este repositório contém exemplos de projetos e habilidades que venho desenvolvendo ao longo do meu curso.
 
-
 ## Tecnologias e Habilidades
 
 ### Linguagens de Programação
 
-- [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)](https://github.com/Mertonlucas/FUNDAMENTOS)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)](https://github.com/Mertonlucas/FUNDAMENTOS)
 - ![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=java&logoColor=white)
-
 - ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white)
-
 
 ### Banco de Dados
 
 - ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?logo=postgresql&logoColor=white)
 
 ### Tecnologias Web
 
