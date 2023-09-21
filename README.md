@@ -10,7 +10,7 @@ Este repositório contém exemplos de projetos e habilidades que venho desenvolv
 
 ### Linguagens de Programação
 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)](https://github.com/Mertonlucas/FUNDAMENTOS)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)
 - ![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=java&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white)
