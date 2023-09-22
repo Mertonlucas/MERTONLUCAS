@@ -10,17 +10,17 @@ Este repositório contém exemplos de projetos e habilidades que venho desenvolv
 
 ### Linguagens de Programação
 
-| <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=F7DF1E" alt="JavaScript"> | <img src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white&style=for-the-badge&labelColor=3776AB" alt="Python"> | <img src="https://img.shields.io/badge/Java-%23ED8B00?logo=java&logoColor=white&style=for-the-badge&labelColor=ED8B00" alt="Java"> | <img src="https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white&style=for-the-badge&labelColor=3178C6" alt="TypeScript"> |
+| <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=F7DF1E&scale=0.8" alt="JavaScript"> | <img src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white&style=for-the-badge&labelColor=3776AB&scale=0.8" alt="Python"> | <img src="https://img.shields.io/badge/Java-%23ED8B00?logo=java&logoColor=white&style=for-the-badge&labelColor=ED8B00&scale=0.8" alt="Java"> | <img src="https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white&style=for-the-badge&labelColor=3178C6&scale=0.8" alt="TypeScript"> |
 | --- | --- | --- | --- |
 
 ### Banco de Dados
 
-| <img src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white&style=for-the-badge&labelColor=4479A1" alt="MySQL"> | <img src="https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=white&style=for-the-badge&labelColor=47A248" alt="MongoDB"> | <img src="https://img.shields.io/badge/PostgreSQL-%23336791?logo=postgresql&logoColor=white&style=for-the-badge&labelColor=336791" alt="PostgreSQL"> | <img src="https://img.shields.io/badge/Postbird-%23336791?logo=postbird&logoColor=white&style=for-the-badge&labelColor=336791" alt="Postbird"> |
+| <img src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white&style=for-the-badge&labelColor=4479A1&scale=0.8" alt="MySQL"> | <img src="https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=white&style=for-the-badge&labelColor=47A248&scale=0.8" alt="MongoDB"> | <img src="https://img.shields.io/badge/PostgreSQL-%23336791?logo=postgresql&logoColor=white&style=for-the-badge&labelColor=336791&scale=0.8" alt="PostgreSQL"> | <img src="https://img.shields.io/badge/Postbird-%23336791?logo=postbird&logoColor=white&style=for-the-badge&labelColor=336791&scale=0.8" alt="Postbird"> |
 | --- | --- | --- | --- |
 
 ### Tecnologias Web
 
-| <img src="https://img.shields.io/badge/Node.js-%23339933?logo=node.js&logoColor=white&style=for-the-badge&labelColor=339933" alt="Node.js"> | <img src="https://img.shields.io/badge/Express-%23000000?logo=express&logoColor=white&style=for-the-badge&labelColor=000000" alt="Express"> | <img src="https://img.shields.io/badge/NestJS-%23E0234E?logo=nestjs&logoColor=white&style=for-the-badge&labelColor=E0234E" alt="NestJS"> | <img src="https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=61DAFB" alt="React"> | <img src="https://img.shields.io/badge/Redux-%23764ABC?logo=redux&logoColor=white&style=for-the-badge&labelColor=764ABC" alt="Redux"> |
+| <img src="https://img.shields.io/badge/Node.js-%23339933?logo=node.js&logoColor=white&style=for-the-badge&labelColor=339933&scale=0.8" alt="Node.js"> | <img src="https://img.shields.io/badge/Express-%23000000?logo=express&logoColor=white&style=for-the-badge&labelColor=000000&scale=0.8" alt="Express"> | <img src="https://img.shields.io/badge/NestJS-%23E0234E?logo=nestjs&logoColor=white&style=for-the-badge&labelColor=E0234E&scale=0.8" alt="NestJS"> | <img src="https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=61DAFB&scale=0.8" alt="React"> | <img src="https://img.shields.io/badge/Redux-%23764ABC?logo=redux&logoColor=white&style=for-the-badge&labelColor=764ABC&scale=0.8" alt="Redux"> |
 | --- | --- | --- | --- | --- |
 
 ### Princípios e Habilidades Avançadas
