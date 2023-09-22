@@ -1,17 +1,14 @@
-# Portfólio Acadêmico
+### Tecnologias e Habilidades
 
-## Bem-vindo ao meu GitHub!
-
-Eu sou um acadêmico de Análise e Desenvolvimento de Sistemas na instituição de ensino superior UNIASSELVI.
-
-Este repositório contém exemplos de projetos e habilidades que venho desenvolvendo ao longo do meu curso.
-
-## Tecnologias e Habilidades
-
-### Linguagens de Programação
+#### Linguagens de Programação
 
 | <a href="https://github.com/Mertonlucas/FUNDAMENTOS-JS" target="_blank"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=F7DF1E&scale=0.8" alt="JavaScript"></a> | <img src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white&style=for-the-badge&labelColor=3776AB&scale=0.8" alt="Python"> | <img src="https://img.shields.io/badge/Java-%23ED8B00?logo=java&logoColor=white&style=for-the-badge&labelColor=ED8B00&scale=0.8" alt="Java"> | <img src="https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white&style=for-the-badge&labelColor=3178C6&scale=0.8" alt="TypeScript"> |
 | --- | --- | --- | --- |
+
+#### HTML e CSS
+
+| <img src="https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=E34F26&scale=0.8" alt="HTML5"> | <img src="https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=1572B6&scale=0.8" alt="CSS3"> |
+| --- | --- |
 
 ### Banco de Dados
 
