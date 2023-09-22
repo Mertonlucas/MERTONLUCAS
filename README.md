@@ -10,7 +10,7 @@ Este repositório contém exemplos de projetos e habilidades que venho desenvolv
 
 ### Linguagens de Programação
 
-| <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=F7DF1E&scale=0.8" alt="JavaScript"> | <img src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white&style=for-the-badge&labelColor=3776AB&scale=0.8" alt="Python"> | <img src="https://img.shields.io/badge/Java-%23ED8B00?logo=java&logoColor=white&style=for-the-badge&labelColor=ED8B00&scale=0.8" alt="Java"> | <img src="https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white&style=for-the-badge&labelColor=3178C6&scale=0.8" alt="TypeScript"> |
+| <a href="https://github.com/Mertonlucas/FUNDAMENTOS-JS" target="_blank"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=F7DF1E&scale=0.8" alt="JavaScript"></a> | <img src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white&style=for-the-badge&labelColor=3776AB&scale=0.8" alt="Python"> | <img src="https://img.shields.io/badge/Java-%23ED8B00?logo=java&logoColor=white&style=for-the-badge&labelColor=ED8B00&scale=0.8" alt="Java"> | <img src="https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white&style=for-the-badge&labelColor=3178C6&scale=0.8" alt="TypeScript"> |
 | --- | --- | --- | --- |
 
 ### Banco de Dados
