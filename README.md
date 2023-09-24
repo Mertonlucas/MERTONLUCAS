@@ -29,6 +29,7 @@ Este repositório contém exemplos de projetos e habilidades que venho desenvolv
 | --- | --- | --- | --- | --- |
 
 
+
 ### Princípios e Habilidades Avançadas
 
 | Princípios SOLID | Padrões de Projeto GOF (Design Patterns) | Testes Automatizados com Jest | Expressões Regulares (Regex) | Sistema de Autenticação com Session e JWT |
@@ -36,19 +37,16 @@ Este repositório contém exemplos de projetos e habilidades que venho desenvolv
 | Criação de Aplicações Web Modernas | Frameworks e Bibliotecas: React, Vue, Bootstrap 4, jQuery | Paradigmas de Programação na Web Moderna | Boas Práticas de Programação e Padrões de Projeto | Desenvolvimento Fullstack: Frontend e Backend |
 | Banco de Dados Relacional e NoSQL: MySQL, Postgres, MongoDB | Desenvolvimento de Sistemas com Autenticação de Usuário | Builds Profissionais com Gulp e Webpack | Principais Tecnologias da Web nas Últimas Versões | Desenvolvimento de Aplicações com Angular 9 |
 | Desenvolvimento de software utilizando testes unitários | Manutenção de sistemas com documentação atualizada | Estudos de casos dos projetos desde a concepção até a entrega em produção | React, React Hooks, Componentes customizados, Context API, Redux, Requisições e etc. | Testes unitários utilizando TDD (Desenvolvimento Orientado a Testes) |
-| Todo o sistema utilizando TypeScript | Utilizar styled-components de forma avançada | Autenticação de usuários utilizando token JWT |
+| Todo o sistema utilizando TypeScript | Utilizar styled-components de forma avançada | Autenticação de usuários utilizando token JWT | Criação de API Rest com Node + Express + Sequelize (back-end) | Sistema de login com session (front-end e back-end) |
 
 
 <font color="blue">**Tecnologias e Desenvolvimento**</font>
 
-| JavaScript Básico, Funcional e Orientado a Objetos (ES6+, front-end e back-end) | TypeScript - um superset do JavaScript com tipagem estática (front-end e back-end) | Node, Express, MongoDB e MySQL/MariaDB (Back-end) |
+| JavaScript Funcional e Orientado a Objetos (ES6+, front-end e back-end) | TypeScript - superset do JavaScript com tipagem estática (front-end e back-end) | Node, Express, MongoDB e MySQL/MariaDB (Back-end) |
 | --- | --- | --- |
-| Webpack e Babel (Front-end) | Sistema de login com session (front-end e back-end) | Sistema de login com JWT (front-end e back-end) |
-| Criação de projetos com Node, Express e EJS (front-end e back-end) | Configuração de um servidor Linux para Deploy (Ubuntu Server) | Configurações de segurança para o servidor (SSH e TLS - Https) |
-| Utilização de noSQL com mongoose (MongoDB) | Utilização de SQL com sequelize (MySQL e MariaDB) | Criação de API Rest com Node + Express + Sequelize (back-end) |
+| Webpack e Babel (Front-end) | Sistema de login com JWT (front-end e back-end) | Criação de projetos com Node, Express e EJS (front-end e back-end) | Configuração de um servidor Linux para Deploy (Ubuntu Server) | Configurações de segurança para o servidor (SSH e TLS - Https) | Utilização de noSQL com mongoose (MongoDB) | Utilização de SQL com sequelize (MySQL e MariaDB) |
 | React JS com React Hooks + Redux com Redux Saga (front-end) | Princípios da programação orientada a objetos | Princípios S.O.L.I.D |
-| Testes automatizados com o Jest | Expressões Regulares (Bônus) | Padrões de projeto GOF - Design Patterns (Bônus) |
-| NestJS + Strapi + PostgreSQL (com CSR, SSR, SSG e ISR) | HTML5 e CSS3 (Bônus Extra) | |
+| Testes automatizados com o Jest | Expressões Regulares (Bônus) | Padrões de projeto GOF - Design Patterns (Bônus) | NestJS + Strapi + PostgreSQL (com CSR, SSR, SSG e ISR) | HTML5 e CSS3 (Bônus Extra) | 
 
 <font color="blue">**Outras Habilidades**</font>
 
@@ -56,9 +54,6 @@ Este repositório contém exemplos de projetos e habilidades que venho desenvolv
 | --- | --- |
 | Estudos de casos dos projetos desde a concepção até a entrega em produção | Utilizar styled-components de forma avançada |
 | Autenticação de usuários utilizando token JWT | |
-
-
-
 
 ## Contribuindo
 
