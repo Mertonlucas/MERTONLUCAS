@@ -1,10 +1,6 @@
-# Portfólio Acadêmico
+![image](https://github.com/Mertonlucas/Mertonlucas/assets/126838077/44e71e71-4877-4c58-8b47-4b48dce6ac08)
 
-## Bem-vindo ao meu GITHUB!!!
 
-Eu sou um acadêmico de Análise e Desenvolvimento de Sistemas na instituição de ensino superior UNIASSELVI.
-
-Este repositório contém exemplos de projetos e habilidades que venho desenvolvendo ao longo do meu curso.
 
 ## Tecnologias e Habilidades
 
