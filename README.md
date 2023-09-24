@@ -40,9 +40,7 @@
 
 | JavaScript Funcional e Orientado a Objetos (ES6+, front-end e back-end) | TypeScript - superset do JavaScript com tipagem estática (front-end e back-end) | Node, Express, MongoDB e MySQL/MariaDB (Back-end) |
 | --- | --- | --- |
-| Webpack e Babel (Front-end) | Sistema de login com JWT (front-end e back-end) | Criação de projetos com Node, Express e EJS (front-end e back-end) | Configuração de um servidor Linux para Deploy (Ubuntu Server) | Configurações de segurança para o servidor (SSH e TLS - Https) | Utilização de noSQL com mongoose (MongoDB) | Utilização de SQL com sequelize (MySQL e MariaDB) |
-| React JS com React Hooks + Redux com Redux Saga (front-end) | Princípios da programação orientada a objetos |
-| Testes automatizados com o Jest | Expressões Regulares | Padrões de projeto GOF - Design Pattern | NestJS + Strapi + PostgreSQL (com CSR, SSR, SSG e ISR) | HTML5 e CSS3 | 
+| Webpack e Babel (Front-end) | Sistema de login com JWT (front-end e back-end) | Criação de projetos com Node, Express e EJS (front-end e back-end) | Configuração de um servidor Linux para Deploy (Ubuntu Server) | Configurações de segurança para o servidor (SSH e TLS - Https) | Utilização de noSQL com mongoose (MongoDB) | Utilização de SQL com sequelize (MySQL e MariaDB) | React JS com React Hooks + Redux com Redux Saga (front-end) | Princípios da programação orientada a objetos | Testes automatizados com o Jest | Expressões Regulares | Padrões de projeto GOF - Design Pattern | NestJS + Strapi + PostgreSQL (com CSR, SSR, SSG e ISR) | HTML5 e CSS3 | 
 
 <font color="blue">**Outras Habilidades**</font>
 
