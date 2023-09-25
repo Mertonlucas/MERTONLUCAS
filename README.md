@@ -48,6 +48,59 @@
 | --- | --- |
 | Estudos de casos dos projetos desde a concepção até a entrega em produção | Utilizar styled-components de forma avançada |
 
+# Habilidades e Competências
+
+No curso ministrado por Gustavo Farias, adquiri um conjunto abrangente de habilidades e competências relacionadas ao teste de software e à automação de testes.
+
+## Fundamentos do Teste de Software
+
+| Habilidades e Conhecimentos |
+| --- |
+| - Compreensão aprofundada dos conceitos fundamentais do teste de software. |
+| - Domínio das técnicas envolvidas no processo de teste. |
+| - Identificação e aplicação dos diferentes tipos e níveis de teste. |
+| - Estratégias eficazes para documentação de testes. |
+
+## Testes Automatizados
+
+| Habilidades e Conhecimentos |
+| --- |
+| - Habilidade para realizar testes automáticos de software. |
+| - Utilização da ferramenta JUnit para criar testes automatizados. |
+| - Flexibilidade para aplicar conhecimentos em diversas ferramentas de automação de testes. |
+
+## Gestão de Testes
+
+| Habilidades e Conhecimentos |
+| --- |
+| - Capacidade de planejar e gerenciar testes na abordagem preditiva. |
+| - Preparação para assumir posições de liderança em projetos de teste de software. |
+
+## Desenvolvimento Profissional
+
+| Habilidades e Conhecimentos |
+| --- |
+| - Orientações valiosas para se tornar um testador de alto nível. |
+| - Transformação do conhecimento em oportunidades concretas no mercado de trabalho. |
+| - Crescimento profissional, desde programador/testador até cargos de liderança e executivos. |
+
+## Ferramentas e Recursos
+
+| Habilidades e Conhecimentos |
+| --- |
+| - Recebimento de ferramentas prontas para gerenciar testes em projetos. |
+| - Planilhas para gestão de testes de sistema, aceitação, alfa e beta. |
+| - Projetos exemplos e apresentações para implementar testes automáticos em empresas. |
+
+## Instrutor
+
+| Informações |
+| --- |
+| - **Nome:** Gustavo Farias |
+| - **Especialização:** Acelerar Carreiras Profissionais |
+| - **Número de Alunos:** Mais de 400.000 |
+
+
 ## Contribuindo
 
 Sinta-se à vontade para explorar meus exemplos e projetos. Caso tenha sugestões ou melhorias, fique à vontade para abrir uma issue ou enviar um pull request!
