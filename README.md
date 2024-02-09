@@ -2,7 +2,7 @@
 
 
 
-## Tecnologias e Habilidades
+## Tecnologias e Habilidades em Processo de Aprendizagem
 
 ### Linguagens de Programação
 
